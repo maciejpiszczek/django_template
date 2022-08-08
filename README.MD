@@ -1,5 +1,11 @@
 # Django Template
 
+
+## How to run?
+1. Environment variables
+2. Staticfiles 
+3. Media
+
 ### Dictionary
 
 - REPL - read, evaluate, print, loop
